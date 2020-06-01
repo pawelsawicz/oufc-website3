@@ -2,85 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Events on OUFC</title>
-    <link>https://polishcityclub.org/events/</link>
+    <link>https://pawelsawicz.github.io/oufc-website3/events/</link>
     <description>Recent content in Events on OUFC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://polishcityclub.org/events/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://pawelsawicz.github.io/oufc-website3/events/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>PCC Speaker Series with Sonia Wedrychowicz</title>
-      <link>https://polishcityclub.org/events/5/</link>
-      <pubDate>Mon, 02 Dec 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/5/</guid>
-      <description>On 2nd December we will have the pleasure of speaking to Sonia Wedrychowicz</description>
-    </item>
     
     <item>
-      <title>Event with Greg Hands MP</title>
-      <link>https://polishcityclub.org/events/1/</link>
+      <title>President&#39;s Welcome</title>
+      <link>https://pawelsawicz.github.io/oufc-website3/events/1/</link>
       <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://polishcityclub.org/events/1/</guid>
-      <description>On 6th June we will have a PCC event at the House of Commons with Greg Hands</description>
-    </item>
-    
-    <item>
-      <title>Henry Balani on Blockchain</title>
-      <link>https://polishcityclub.org/events/3/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/3/</guid>
-      <description>On 4th March we will have the pleasure of speaking to Henry Balani about why the Blockchain matters – and why it is different from Bitcoin</description>
-    </item>
-    
-    <item>
-      <title>Meeting with Zbigniew Jagiello, CEO of Bank PKO BP</title>
-      <link>https://polishcityclub.org/events/6/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/6/</guid>
-      <description>On 24th September we will have the pleasure of speaking to Zbigniew Jagiello</description>
-    </item>
-    
-    <item>
-      <title>PCC Event with Ania Lichota Executive Coach &amp; AGM</title>
-      <link>https://polishcityclub.org/events/2/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/2/</guid>
-      <description>On 20th June we will start with our Annual General Meeting.</description>
-    </item>
-    
-    <item>
-      <title>PCC New Year&#39;s Party</title>
-      <link>https://polishcityclub.org/events/7/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/7/</guid>
-      <description>On 17th January we will host new year&amp;rsquo;s party</description>
-    </item>
-    
-    <item>
-      <title>PCC Speaker Series: Bill Browder</title>
-      <link>https://polishcityclub.org/events/8/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/8/</guid>
-      <description>On 24th February, join us to hear from Russia&amp;rsquo;s largest foreign investor turned Putin&amp;rsquo;s No. 1 enemy!</description>
-    </item>
-    
-    <item>
-      <title>Tomasz Czechowicz (MCI)</title>
-      <link>https://polishcityclub.org/events/4/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://polishcityclub.org/events/4/</guid>
-      <description>On 31st October we will have the pleasure of speaking to Tomasz Czechowicz</description>
+      <guid>https://pawelsawicz.github.io/oufc-website3/events/1/</guid>
+      <description>Welcome to the Oxford University Fencing Club website!
+Founded in 1891, OUFC is one of Britain’s oldest and most successful fencing clubs. The club caters for all levels, from beginners to international.</description>
     </item>
     
   </channel>
