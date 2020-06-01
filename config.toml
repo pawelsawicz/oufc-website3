@@ -9,9 +9,7 @@ custom_css = ["css/custom.css"]
 enableRobotsTXT = true
 
 [params]
-    facebook = "https://www.facebook.com/PolishCityClub/"
-    twitter = "https://twitter.com/PolishCityClub"
-    linkedin = "https://www.linkedin.com/company/polish-city-club"
+    facebook = "https://www.facebook.com/oufencing/"
     featured_image = "/images/fencing.jpg"
 
 [menu]
